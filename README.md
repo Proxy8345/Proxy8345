@@ -3,7 +3,7 @@
 
 <h2> Virtual Machine Projects<h2>
 
-<a href="https://github.com/Proxy8345/Virtual-Malware-Analysis-Lab">Virtual Malware Analysis Lab </a>
+<a href="https://remnux.org/">Virtual Malware Analysis Lab </a>
 
 <h2>👨‍💻 Scripting/Automation/Software Developement:</h2>
 
