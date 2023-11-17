@@ -7,7 +7,7 @@
 
 
 <b> <h2> Certifications <h2> </b>
-  <a href="https://www.coursera.org/account/accomplishments/professional-cert/6YFS2UFN3WAT">Google IT Support Professional Certificate</a>
+  <body> href="https://www.coursera.org/account/accomplishments/professional-cert/6YFS2UFN3WAT">Google IT Support Professional Certificate <body></body>
   
   
   <a href="https://verify.tn.gov/">Unarmed Security Guard</a>
