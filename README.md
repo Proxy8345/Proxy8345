@@ -1,8 +1,8 @@
-<h1>Hi, I'm Christopher! <br/> I'm a Security Guard and this is my GitHub for projects I will be creating on my career path to becoming a Cyber Security Architect! <a>
+<h1>Hi, I'm Christopher! <br/> This is my GitHub where I will be uploading various projects I work on my path to becoming a System Admin <a>
 </a>
 
-<h2> Cyber Security Projects <h2>
-<a href="https://youtu.be/lT5LosbHUmo">Typosquatting Incident</a>
+<h2> Virtual Machine Projects <h2>
+<a Baseline Malware Analysis Virtual Machine Lab </a>
 <h2>👨‍💻 Software Development Projects:</h2>
 
 
