@@ -2,12 +2,12 @@
 </a>
 
 <h2> Virtual Machine Projects<h2>
-<a https://github.com/Proxy8345/Virtual-Malware-Analysis-Lab <a/>
+<body> </body>https://github.com/Proxy8345/Virtual-Malware-Analysis-Lab <body>
 <h2>👨‍💻 Scripting/Automation/Software Developement:</h2>
 
 
 <b> <h2> Certifications <h2> </b>
-  <body> href="https://www.coursera.org/account/accomplishments/professional-cert/6YFS2UFN3WAT">Google IT Support Professional Certificate <body></body>
+  <a href="https://www.coursera.org/account/accomplishments/professional-cert/6YFS2UFN3WAT">Google IT Support Professional Certificate </a>
   
   
   <a href="https://verify.tn.gov/">Unarmed Security Guard</a>
